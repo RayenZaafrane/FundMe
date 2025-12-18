@@ -4,7 +4,7 @@
 
 ### 1. **Start the Backend** (Terminal 1)
 ```powershell
-cd C:\Users\youusername\OneDrive\Desktop\Etudie\FundMe\backend
+cd C:\Users\yousername\OneDrive\Desktop\Etudie\FundMe\backend
 node server.js
 ```
 You should see:
